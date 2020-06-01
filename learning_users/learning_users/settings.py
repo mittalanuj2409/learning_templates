@@ -27,7 +27,7 @@ SECRET_KEY = '2p%ek$+gx+!_d_i$#!b)*m964_au$(qehm33qe)lmw-$*k#mvn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mrmime.pythonanywhere.com/']
+ALLOWED_HOSTS = [mrmime.pythonanywhere.com]
 
 
 # Application definition
